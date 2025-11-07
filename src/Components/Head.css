@@ -1,0 +1,21 @@
+.head-icons{
+ position: relative;
+ top: 1px;
+ /* left: 85%; */
+ 
+ z-index: 100;
+}
+/* .headr-kidddy{
+  position: relative; 
+   right: 30%; 
+    width: 100px;
+
+} */
+
+@media (max-width: 550px) {
+  .head-icons {
+    width: 11%;
+    height: 37.5%;
+    text-align: center;
+  }
+}
